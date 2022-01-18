@@ -1,0 +1,6 @@
+Redux toolkit react:
+
+It is a great tool to manage complex states. It also production ready.
+
+Another tool which is similar to Redux is 'Recoil' which is launched by Facebook which uses Atom 
+to manage state. but it's easy to write code with Recoil , it's not production ready yet.
